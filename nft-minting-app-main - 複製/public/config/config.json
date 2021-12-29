@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x84FA9DD5a9B08a7e8Fa008928da46B14cEf905cb",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x84FA9DD5a9B08a7e8Fa008928da46B14cEf905cb",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "CryptoNeko NFT",
+  "SYMBOL": "CNNFT",
+  "MAX_SUPPLY": 11111,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/cryptoneko-by-gl1tch",
+  "SHOW_BACKGROUND": true
+}
